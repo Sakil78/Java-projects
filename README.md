@@ -9,7 +9,7 @@ This repository contains Java projects that I'm building as part of my learning 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | `My-First-Project-with-Java` | Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs. | ✅ Completed |
-| `Zookeeper with Java` | Help the local zoo take care of its animals by building a tool to keep an eye on them. | 🔄 In Progress |
+| `Zookeeper with Java` | Help the local zoo take care of its animals by building a tool to keep an eye on them. Show the zookeeper an image of her ward. The zookeeper wants to know what is inside each habitat, by its number. | 🔄 In Progress |
 | `Coffee Machine` | Simulates a coffee machine with menu and resources | 🔜 Upcoming |
 
 ---
