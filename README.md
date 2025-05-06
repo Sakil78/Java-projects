@@ -8,7 +8,7 @@ This repository contains Java projects that I'm building as part of my learning 
 
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| `My-First-Project-with-Java` | Basic Java program to get started with syntax and structure | ✅ Completed | About | Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month. Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs.
+| `My-First-Project-with-Java` | Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs. | ✅ Completed |
 | `Simple Chatbot` | A console-based chatbot that uses conditional logic | 🔄 In Progress |
 | `Coffee Machine` | Simulates a coffee machine with menu and resources | 🔜 Upcoming |
 
